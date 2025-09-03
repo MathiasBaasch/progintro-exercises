@@ -7,3 +7,5 @@ Useful links:
 ## Formatting Examples:
 1. *Italic* tekst.
 2. **Bold** tekst.
+
+- super mega spændende Exercises 
